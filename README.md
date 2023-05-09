@@ -32,7 +32,7 @@ para valor 3
 123
 ```
 
-## Ejercicio 2 : Arrays
+## Ejercicio 2 : Arrays - funciones
 
 - Escribir una funcion que reciba 2 arrays y que devuelva un array con todos los elementos que coincidan entre ellos.
 
@@ -54,7 +54,7 @@ Resultado: [3, true]
 
 
 ```
-## Ejercicio 3
+## Ejercicio 3 - Objetos 
 
 #### 3.1) Dado el siguiente objeto
 ```javascript
